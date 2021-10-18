@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/*
+    em HTML id     #   em CSS
+    em HTML class  .   em CSS
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
+
+body {
+    background-color: #8eaef7;
+    font-family: 'Asap', Helvetica, sans-serif;
+}
+
+h1 {
+    color: #0012F0;
+}
+
+h1#principal {
+    text-align: center;
+    background-color: #FFA300;
+    color: #E9E6F5;
+}
+
+h2 {
+    color: #3B73F5;
+}
+
+.basico {
+    text-decoration: underline;
+}
+
+.inter {
+    font-style: italic;
+}
+
+.ava {
+    font-weight: 900;
+}
+
+.destaque {
+    background-color: violet;
+}
+
+p {
+    color: #D1603E;
+    text-align: justify;
+    text-indent: 20px;
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>011 - Mídias em HTML5</title>
+</head>
+<body>
+    <h1>Imagem dinâmica</h1>
+    <hr>
+    <p>Tente abrir a imagem em vários dispositivos ou redimencione a tela</p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="_img/foto_p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="_img/foto_m.png" type="image/png">
+        <img src="_img/foto_g.png" alt="Imagem flexível">
+    </picture>
+     <h1>Áudio</h1>
+    <hr>
+    <p>Reprodução de áudios em HTML5</p>
+    <audio src="_mda/guess_who_laughing.mp3" controls></audio>
+    <br>
+    <audio preload="metadata" controls loop autoplay="autoplay">
+        <source src="_mda/dire_straits_on_every_street.mp3" type="audio/mpeg">
+        <source src="_mda/dire_straits_on_every_street.ogg" type="audio/ogg">
+        <source src="_mda/dire_straits_on_every_street.wav" type="audio/wav">
+        <p>Infelizmente, seu navegador não reproduz o áudio. Clique <a href="_mda/dire_straits_on_every_street.mp3">aqui</a> para baixar o arquivo de áudio</p>
+    </audio>
+</body>
+</html>
