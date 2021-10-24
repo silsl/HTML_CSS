@@ -20,7 +20,7 @@
     }
 </style>
 
-<ul list-style="none">
+<ul list-style-type="none">
     <li><a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/001/">Abrir o exercício 001</a></li>
     <li><a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/002/">Abrir o exercício 002</a></li>
     <li><a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/003/">Abrir o exercício 003</a></li>
@@ -48,7 +48,7 @@
     <li><a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/025/">Abrir o exercício 025</a></li>
 </ul>
 <hr>
-<ul list-style="none">
+<ul list-style-type="none">
     <li><a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/d001/">Abrir o desafio 001</a></li>
     <li><a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/d002/">Abrir o desafio 002</a></li>
     <li><a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/d003/">Abrir o desafio 003</a></li>
