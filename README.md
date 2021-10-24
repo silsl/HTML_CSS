@@ -26,3 +26,14 @@
 <a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/023/">Abrir o exercício 023</a><br>
 <a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/024/">Abrir o exercício 024</a><br>
 <a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/025/">Abrir o exercício 025</a><br>
+<hr>
+<a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/d001/">Abrir o desafio 001</a><br>
+<a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/d002/">Abrir o desafio 002</a><br>
+<a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/d003/">Abrir o desafio 003</a><br>
+<a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/d004/">Abrir o desafio 004</a><br>
+<a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/d005/">Abrir o desafio 005</a><br>
+<a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/d006/">Abrir o desafio 006</a><br>
+<a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/d007/">Abrir o desafio 007</a><br>
+<a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/d008/">Abrir o desafio 008</a><br>
+<a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/d009/">Abrir o desafio 009</a><br>
+<a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/d010/">Abrir o desafio 010</a><br>
