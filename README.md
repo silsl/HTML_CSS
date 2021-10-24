@@ -4,14 +4,15 @@
 <style>
     a {
         text-decoration: none;
-        transition-duration: 0.5s;
+        transition-duration: 0.33s;
     }
     a:visited {
         color: #ff0000;
     }
     a:hover {
-        color: #701bfa;
-        background-color: #00ff00;
+        color: #ffffff;
+        background-color: #368411;
+        text-decoration: none;
     }
 </style>
 
