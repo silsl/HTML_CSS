@@ -5,6 +5,7 @@
     a {
         text-decoration: none;
         transition-duration: 0.33s;
+        padding: 2px;
     }
     a:visited {
         color: #ff0000;
