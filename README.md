@@ -4,15 +4,14 @@
 <style>
     a {
         text-decoration: none;
+        transition: 0.5;
     }
     a:visited {
         color: #ff0000;
     }
-    a {
-        columns: 2;
-    }
     a:hover {
-        color: #00ff00;
+        color: #ffffff;
+        background-color: #00ff00;
     }
 </style>
 
