@@ -8,6 +8,9 @@
     a:visited {
         color: #ff0000;
     }
+    a {
+        columns: 2;
+    }
 </style>
 
 <a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/001/">Abrir o exercício 001</a><br>
