@@ -6,6 +6,7 @@
         text-decoration: none;
         transition-duration: 0.33s;
         padding: 5px;
+        font-size: 0.8em;
     }
     a:visited {
         color: #ff0000;
