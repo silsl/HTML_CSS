@@ -1,6 +1,12 @@
 # HTML_CSS
  Curso em Vídeo - HTML 5 + CSS 3
 
+<style>
+    a {
+        text-decoration: none;
+    }
+</style>
+
 <a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/001/">Abrir o exercício 001</a><br>
 <a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/002/">Abrir o exercício 002</a><br>
 <a href="https://silsl.github.io/HTML_CSS/EXERCICIOS/003/">Abrir o exercício 003</a><br>
