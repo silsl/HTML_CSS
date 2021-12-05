@@ -16,7 +16,7 @@
         text-decoration: none;
     }
     ul {
-        columns: 3;
+        columns: 2;
          list-style-type: none;
     }
 </style>
