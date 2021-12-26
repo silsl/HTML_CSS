@@ -19,6 +19,9 @@
         columns: 2;
          list-style-type: none;
     }
+    a {
+        border-radius: 5px;
+    }
 </style>
 
 <ul>
